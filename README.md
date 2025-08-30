@@ -9,4 +9,5 @@
 
 
 📌 IMPORTANT 📌
+
 To start the project you have to start the server with the command in the terminal- node server.js, and open it with live server.
