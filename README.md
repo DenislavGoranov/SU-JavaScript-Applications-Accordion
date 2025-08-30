@@ -8,7 +8,6 @@
 My task is to show more/less information for the selected article.
 
 🔑 By clicking the [More] button for the selected article,
-
 it reveals the content of a hidden div and changes the text of the button to [Less].
 
 The content is obtained by making a GET request to the server. When the same button is clicked again (now reading Less),
